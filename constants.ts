@@ -27,8 +27,8 @@ export const LESSONS: Lesson[] = [
   },
   {
     id: 5,
-    title: 'Aula 5: Estratégias de Crescimento',
-    audioSrc: '',
+    title: 'Aula 5: Hábitos de Sucesso – Programando Sua Vida para Vencer',
+    audioSrc: 'https://www.dropbox.com/scl/fi/jkt0by5wor4xjcfcaidlw/Aula-05.wav?rlkey=vpuyxjyo4eu2dufb7wv882i6r&st=1ahkrxng&raw=1',
     pdfSrc: '/downloads/aula_05.pdf',
   },
   {
